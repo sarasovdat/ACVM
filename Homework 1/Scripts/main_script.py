@@ -8,6 +8,7 @@ import time
 # Test both methods on other images (at least three more pairs of images)
 
 # DODAJ ŠE IMENA ZA FAJLE V FUNKCIJE!!!!!
+# V MAIN JE VSE ZAKOMENTIRANO...
 
 def test_method(im1, im2, method, name):
     """
