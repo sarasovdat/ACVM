@@ -1,0 +1,11 @@
+---
+pf_tracker:  
+  tracker_path: /Users/sarabizjak/Documents/IŠRM magistrski/Advanced Computer Vision Methods/ACVM/Homework 4/particle_filters.py 
+  class_name: PFTracker
+  paths:  
+# another trackers can be added here, similarly as in the upper example
+# here is an example for the NCC tracker:
+#ncc_tracker:
+#  tracker_path: path\to\python_ncc.py
+#  class_name: NCCTracker  
+...
